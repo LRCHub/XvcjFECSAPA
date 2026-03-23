@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Ode to the Nameless Martyr (Instrumental)",
+  "base_artist": "Wuthering Waves和jixwang",
+  "createdAt": "2026-03-23T21:45:56.236408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ode to the Nameless Martyr (instrumental)",
+      "artist": "Wuthering Waves",
+      "has_synced": true,
+      "path": "select/01_Ode_to_the_Nameless_Martyr_(instrumental)_Wuthering_Waves.lrc"
+    }
+  ]
+}
